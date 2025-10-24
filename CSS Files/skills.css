@@ -345,7 +345,6 @@ body::after {
   }
 
   .section {
-    /* Removed width: fit-content; */
     padding: 15px;
   }
 
