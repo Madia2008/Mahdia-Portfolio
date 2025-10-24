@@ -271,6 +271,7 @@ body::after {
 
   .skill-name {
     font-size: 0.9rem;
+    margin-top: 0;
   }
 
   .bar2 {
@@ -317,8 +318,8 @@ body::after {
   }
 
   .bar2 {
-    width: 85%;
-    height: 8px;
+    width: 90%;
+    height: 10px;
   }
 
   .hamburger {
@@ -353,12 +354,12 @@ body::after {
   }
 
   .skill-name {
-    font-size: 0.9rem;
+    font-size: 1rem;
   }
 
   .bar2 {
     width: 90%;
-    height: 7px;
+    height: 10px;
   }
 
   footer {
