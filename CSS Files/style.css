@@ -921,6 +921,12 @@ details[open] img:hover {
     font-size: 18px;
     margin-top: 30px;
   }
+
+   .topNav {
+    height: 60px;
+    padding: 0 15px;
+  }
+
   .hamburger {
     width: 25px;
     height: 18px;
